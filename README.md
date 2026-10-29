@@ -49,3 +49,9 @@ Quantities and positions reflect the public faculty profile; they are not repres
 The original site author's text, portrait, QR code, diagrams, and University of Macau branding are not included. The school wordmark is typeset in English beside the official HBUT seal.
 
 Source rechecked on October 29, 2026: the faculty profile still displays its April 2025 publication date. The linked English CV is a historical university document and lists `scauzhang@gmail.com`; the website intentionally uses `hbutzhang@gmail.com` from the newer faculty profile. Faculty confirmation of current appointments, admissions, and aggregate statistics remains advisable before treating this as an up-to-date official personal website. Individual publication records have not all been independently checked against publisher records.
+
+## Recent research additions (29 October 2026)
+
+The Home, Research, Awards, Papers, and Students pages now include recent 2025–2026 research and the university-reported CSS 2026 Best Paper Award. New journal/conference records have direct DOI or conference links. Preprints and author manuscripts are listed separately, and accepted / forthcoming issue records are explicitly labeled. The 2025 cloud-computing paper's volume and pagination were also completed from publisher metadata.
+
+See `docs/recent-research-sources-2026-10-29.md` for attribution checks, date conventions, and unresolved publication status, and `docs/recent-publication-metadata.json` for retained publisher-deposited metadata. The institute's publication count is not substituted for the professor's personal count.

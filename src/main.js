@@ -25,7 +25,10 @@ function filterPapers() {
     });
     section.hidden = !visible;
   });
-  document.querySelector('#paper-count').textContent = `${count} selected publication${count === 1 ? '' : 's'}`;
+  document.querySelectorAll('#publications > div').forEach(category => {
+    category.hidden = ![...category.querySelectorAll('.publication-year')].some(section => !section.hidden);
+  });
+  document.querySelector('#paper-count').textContent = `${count} selected record${count === 1 ? '' : 's'}`;
   document.querySelector('#no-results').hidden = count > 0;
 }
 search?.addEventListener('input', filterPapers);

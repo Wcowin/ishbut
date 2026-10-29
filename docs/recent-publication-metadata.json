@@ -1,0 +1,1684 @@
+{
+  "checked": "2026-10-29",
+  "source": "Publisher-deposited metadata from https://api.crossref.org/works/{DOI}",
+  "records": [
+    {
+      "query": "PPOM-Attack: A Substitute Model-Free Perturbation Prediction and Optimization Method for Black-Box Adversarial Attack Against Face Recognition",
+      "title": [
+        "PPOM-Attack: A Substitute Model-Free Perturbation Prediction and Optimization Method for Black-Box Adversarial Attack Against Face Recognition"
+      ],
+      "DOI": "10.1109/tifs.2026.3666853",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8392-4609",
+          "authenticated-orcid": false,
+          "given": "Ke",
+          "family": "Cheng",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6890-8953",
+          "authenticated-orcid": false,
+          "given": "Jixin",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0008-0668-5262",
+          "authenticated-orcid": false,
+          "given": "Haiyun",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shenzhen International Graduate School, Tsinghua University, Shenzhen, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0004-4529-6658",
+          "authenticated-orcid": false,
+          "given": "Zipeng",
+          "family": "Zhong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8551-8826",
+          "authenticated-orcid": false,
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0877-3887",
+          "authenticated-orcid": false,
+          "given": "Zheng",
+          "family": "Qin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Computer Science and Electronic Engineering, Hunan University, Changsha, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Information Forensics and Security"
+      ],
+      "volume": "21",
+      "issue": null,
+      "page": "2580-2595",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/tifs.2026.3666853"
+    },
+    {
+      "query": "An Efficient, Identifiable and Abortable Multi-Party Signature Scheme for VANETs",
+      "title": [
+        "An Efficient, Identifiable and Abortable Multi-Party Signature Scheme for VANETs"
+      ],
+      "DOI": "10.1109/tvt.2026.3664438",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2783-0907",
+          "authenticated-orcid": false,
+          "given": "Gang",
+          "family": "Shen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Hubei Provincial Key Laboratory of Green Intelligent Computing Power Network, Hubei Provincial Engineering Research Center for Digital &amp; Intelligent Manufacturing Technologies and Applications, School of Computer Science and Artificial Intelligence, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhenhua",
+          "family": "Han",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science and Artificial Intelligence, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4384-5786",
+          "authenticated-orcid": false,
+          "given": "Weizhi",
+          "family": "Meng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computing and Communications, Lancaster University, Lancaster, U.K."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8551-8826",
+          "authenticated-orcid": false,
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Hubei Provincial Key Laboratory of Green Intelligent Computing Power Network, Hubei Provincial Engineering Research Center for Digital &amp; Intelligent Manufacturing Technologies and Applications, School of Computer Science and Artificial Intelligence, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Vehicular Technology"
+      ],
+      "volume": "75",
+      "issue": "7",
+      "page": "14849-14861",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/tvt.2026.3664438"
+    },
+    {
+      "query": "Secure Optimization With Asynchronous Structured Skyline Predicates Under Vertical Data Federation",
+      "title": [
+        "Secure Optimization With Asynchronous Structured Skyline Predicates Under Vertical Data Federation"
+      ],
+      "DOI": "10.1109/tifs.2026.3696555",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1636-0292",
+          "authenticated-orcid": false,
+          "given": "Yu",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "College of Computer Science and Technology, National University of Defense Technology, Changsha, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5113-387X",
+          "authenticated-orcid": false,
+          "given": "Rongmao",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Computer Science and Technology, National University of Defense Technology, Changsha, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8155-7462",
+          "authenticated-orcid": false,
+          "given": "Shaojing",
+          "family": "Fu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Computer Science and Technology, National University of Defense Technology, Changsha, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8551-8826",
+          "authenticated-orcid": false,
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science and Artificial Intelligence, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yuexiang",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Computer Science and Technology, National University of Defense Technology, Changsha, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Information Forensics and Security"
+      ],
+      "volume": "21",
+      "issue": null,
+      "page": "5400-5413",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/tifs.2026.3696555"
+    },
+    {
+      "query": "An Efficient Graph Encryption Scheme Supporting Shortest Path Fuzzy Queries",
+      "title": [
+        "An Efficient Graph Encryption Scheme Supporting Shortest Path Fuzzy Queries"
+      ],
+      "DOI": "10.1109/tifs.2025.3599388",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-8409-0960",
+          "authenticated-orcid": false,
+          "given": "Hua",
+          "family": "Shen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Caigang",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1562-5105",
+          "authenticated-orcid": false,
+          "given": "Willy",
+          "family": "Susilo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Cybersecurity and Cryptology, School of Computing and Information Technology, University of Wollongong, Wollongong, NSW, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yitao",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Wuhan Maritime Communication Research Institute, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8551-8826",
+          "authenticated-orcid": false,
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Information Forensics and Security"
+      ],
+      "volume": "20",
+      "issue": null,
+      "page": "8687-8700",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/tifs.2025.3599388"
+    },
+    {
+      "query": "Extractable Witness Encryption for Arithmetic Circuit Satisfiability Problem",
+      "title": [
+        "Extractable Witness Encryption for Arithmetic Circuit Satisfiability Problem"
+      ],
+      "DOI": "10.1109/jiot.2025.3540308",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0009-1420-0269",
+          "authenticated-orcid": false,
+          "given": "Yuzhu",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8551-8826",
+          "authenticated-orcid": false,
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Internet of Things Journal"
+      ],
+      "volume": "12",
+      "issue": "11",
+      "page": "18137-18148",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            1
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            1
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/jiot.2025.3540308"
+    },
+    {
+      "query": "Revocable-Hierarchical-Identity-Based Inner Product Function Encryption in Smart Healthcare",
+      "title": [
+        "Revocable-Hierarchical-Identity-Based Inner Product Function Encryption in Smart Healthcare"
+      ],
+      "DOI": "10.1109/jiot.2025.3527556",
+      "author": [
+        {
+          "given": "Yasi",
+          "family": "Zhu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7254-3579",
+          "authenticated-orcid": false,
+          "given": "Yanwei",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jing",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0419-1209",
+          "authenticated-orcid": false,
+          "given": "Bo",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8551-8826",
+          "authenticated-orcid": false,
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Internet of Things Journal"
+      ],
+      "volume": "12",
+      "issue": "11",
+      "page": "15319-15332",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            1
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            1
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/jiot.2025.3527556"
+    },
+    {
+      "query": "Intelligent UAV swarm key agreement survey: Systematic taxonomy, cryptographic automaton and quantum resistance",
+      "title": [
+        "Intelligent UAV swarm key agreement survey: Systematic taxonomy, cryptographic automaton and quantum resistance"
+      ],
+      "DOI": "10.1016/j.iot.2025.101720",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0039-8920",
+          "authenticated-orcid": false,
+          "given": "Guangyue",
+          "family": "Kou",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Qing",
+          "family": "Ye",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "XuAn",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Wei",
+          "family": "Fu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Qian",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4332-9271",
+          "authenticated-orcid": false,
+          "given": "Zhimin",
+          "family": "Yuan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5554-7930",
+          "authenticated-orcid": false,
+          "given": "Renji",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Xiong",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Internet of Things"
+      ],
+      "volume": "34",
+      "issue": null,
+      "page": "101720",
+      "article-number": "101720",
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            11
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            11
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1016/j.iot.2025.101720"
+    },
+    {
+      "query": "EAPIR: Efficient and Authenticated Private Information Retrieval with Fast Server Processing",
+      "title": [
+        "EAPIR: Efficient and Authenticated Private Information Retrieval with Fast Server Processing"
+      ],
+      "DOI": "10.1007/978-981-96-9101-2_20",
+      "author": [
+        {
+          "given": "Hua",
+          "family": "Shen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Xinjie",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Zhen",
+          "family": "Fan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ge",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Lecture Notes in Computer Science",
+        "Information Security and Privacy"
+      ],
+      "volume": null,
+      "issue": null,
+      "page": "391-398",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            7
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "type": "book-chapter",
+      "URL": "https://doi.org/10.1007/978-981-96-9101-2_20"
+    },
+    {
+      "query": "Bidirectional Identity-Based Inner-Product Functional Re-Encryption in Vaccine Data Sharing",
+      "title": [
+        "Bidirectional Identity-Based Inner-Product Functional Re-Encryption in Vaccine Data Sharing"
+      ],
+      "DOI": "10.1109/tcc.2025.3552740",
+      "author": [
+        {
+          "given": "Jing",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Shaanxi Normal University",
+              "place": [
+                "Xi’an, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7254-3579",
+          "authenticated-orcid": false,
+          "given": "Yanwei",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shaanxi Normal University",
+              "place": [
+                "Xi’an, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yasi",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shaanxi Normal University",
+              "place": [
+                "Xi’an, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3934-2177",
+          "authenticated-orcid": false,
+          "given": "Zhiquan",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Jinan University",
+              "place": [
+                "Guangzhou, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0419-1209",
+          "authenticated-orcid": false,
+          "given": "Bo",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shaanxi Normal University",
+              "place": [
+                "Xi’an, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8551-8826",
+          "authenticated-orcid": false,
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Hubei University of Technology",
+              "place": [
+                "Wuhan, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Cloud Computing"
+      ],
+      "volume": "13",
+      "issue": "2",
+      "page": "617-628",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            4
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            4
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/tcc.2025.3552740"
+    },
+    {
+      "title": [
+        "Leakage-Resilient Data Transmission Protocol With Multi-Receiver for Internet of Things"
+      ],
+      "DOI": "10.1109/tdsc.2025.3632800",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7254-3579",
+          "authenticated-orcid": false,
+          "given": "Yanwei",
+          "family": "Zhou",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3602-4066",
+          "authenticated-orcid": false,
+          "given": "Zirui",
+          "family": "Qiao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Cyberspace Security, Xi&#x2019;an University of Posts and Telecommunications, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0419-1209",
+          "authenticated-orcid": false,
+          "given": "Bo",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4397-1248",
+          "authenticated-orcid": false,
+          "given": "Zhe",
+          "family": "Xia",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science and Technology, Wuhan University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8551-8826",
+          "authenticated-orcid": false,
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Dependable and Secure Computing"
+      ],
+      "volume": "23",
+      "issue": "2",
+      "page": "3101-3118",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            3
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            3
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/tdsc.2025.3632800"
+    },
+    {
+      "title": [
+        "CLR-IA: An Efficient Identity Authentication Protocol With Continuous Leakage Resilience for Mobile Edge Computing"
+      ],
+      "DOI": "10.1109/tdsc.2026.3657345",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7254-3579",
+          "authenticated-orcid": false,
+          "given": "Yanwei",
+          "family": "Zhou",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0002-5682-3113",
+          "authenticated-orcid": false,
+          "given": "Yasi",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3602-4066",
+          "authenticated-orcid": false,
+          "given": "Zirui",
+          "family": "Qiao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Cyberspace Security, Xi&#x2019;an University of Posts and Telecommunications, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0009-8960-5957",
+          "authenticated-orcid": false,
+          "given": "Xianxiang",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Guangjin",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0419-1209",
+          "authenticated-orcid": false,
+          "given": "Bo",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi&#x2019;an, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3411-7947",
+          "authenticated-orcid": false,
+          "given": "Tianqing",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Data Science, City University of Macau, Macao, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8551-8826",
+          "authenticated-orcid": false,
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer, Hubei University of Technology, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Dependable and Secure Computing"
+      ],
+      "volume": "23",
+      "issue": "3",
+      "page": "5621-5636",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            5
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            5
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/tdsc.2026.3657345"
+    },
+    {
+      "title": [
+        "DFA-SAC: Enabling regular language policies with sanitizable access control"
+      ],
+      "DOI": "10.1016/j.jisa.2026.104555",
+      "author": [
+        {
+          "given": "Zixiao",
+          "family": "Xu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yu",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jilei",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tianqing",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8551-8826",
+          "authenticated-orcid": false,
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Journal of Information Security and Applications"
+      ],
+      "volume": "102",
+      "issue": null,
+      "page": "104555",
+      "article-number": "104555",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            11
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1016/j.jisa.2026.104555"
+    },
+    {
+      "title": [
+        "Privacy-preserving federated learning via secret sharing and multi-key homomorphic encryption"
+      ],
+      "DOI": "10.1016/j.ins.2026.123619",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2872-4508",
+          "authenticated-orcid": false,
+          "given": "Yuntao",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-0636-5814",
+          "authenticated-orcid": false,
+          "given": "Fumiya",
+          "family": "Inoue",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yujie",
+          "family": "Gu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xun",
+          "family": "Shen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Information Sciences"
+      ],
+      "volume": "753",
+      "issue": null,
+      "page": "123619",
+      "article-number": "123619",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "published-online": null,
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1016/j.ins.2026.123619"
+    },
+    {
+      "title": [
+        "Homomorphic Witness Encryption and Its Applications"
+      ],
+      "DOI": "10.1002/nem.2303",
+      "author": [
+        {
+          "given": "Yuzhu",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Computer Science and Information Security Guilin University of Electronic Technology  Guilin China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Xingbo",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science and Information Security Guilin University of Electronic Technology  Guilin China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mingwu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science and Information Security Guilin University of Electronic Technology  Guilin China"
+            },
+            {
+              "name": "School of Computer Science Hubei University of Technology  Wuhan China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "International Journal of Network Management"
+      ],
+      "volume": "35",
+      "issue": "1",
+      "page": null,
+      "article-number": "e2303",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            20
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            20
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1002/nem.2303"
+    }
+  ]
+}
